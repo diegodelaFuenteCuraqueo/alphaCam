@@ -1,0 +1,15 @@
+#webcam, #image {
+  /* move both sketchs to the middle of the page */
+  position: absolute;
+  top: 5%;
+  left: 5%;
+}
+
+#image {
+  /* make sketch1 a bit transparent */
+  opacity: 0.5;
+}
+
+body {
+  background-color: black;
+}
